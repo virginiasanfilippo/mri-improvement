@@ -2,7 +2,5 @@
 ### Elective in Artificial Intelligence - AI for Visual Perception in HCI & HRI Final Project 
 #### by Virginia Sanfilippo and Claudia Melis Tonti
 
-codice da ottimizzare su drive(uni): Uni/Electives/VPH/github_EAI_VPH_Project.ipynb
-
-paper e altro:
-https://drive.google.com/drive/u/1/folders/12atGJG9UyPonra3IQvF5H_eUxcmkopmv
+The MRI (meaning Magnetic Resonance Imaging) is a noninvasive medical imaging modality which provides high resolution and appropriate contrast of soft tissues. Despite the advantages, the long-data acquisition time of MRI and the high probability of presence of motion in the resulting images, cause many difficulties in its clinical and research applications. 
+The aim of this project is improving the real-time image acquisition, simulating the motion noise and attempting to fix it with deep learning.
